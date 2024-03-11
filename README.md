@@ -161,8 +161,9 @@ Asserções são um tipo de consulta exibida especialmente no log de comando
 4. Selecione o arquivo de teste que deseja executar na interface do Cypress.
 5. Aguarde até que o Cypress execute os testes e exiba os resultados.
 
-Verificação:
-Ao final da execução dos testes, o Cypress irá exibir um relatório detalhado dos resultados. Você poderá verificar quais testes passaram, quais falharam e obter informações adicionais sobre as falhas, como mensagens de erro e screenshots**.**
+**Verificação:**
+
+Ao final da execução dos testes, o Cypress irá exibir um relatório detalhado dos resultados. Você poderá verificar quais testes passaram, quais falharam e obter informações adicionais sobre as falhas, como mensagens de erro e screenshots.
 
 # 7. Como estruturar testes de forma eficiente no Cypress?
 
